@@ -7,5 +7,5 @@
 **Original and Processed Data:**
 [Data](https://github.com/datasci-harris/final-project-final-project-ruyang-ziyue/blob/master/src/Project%20-%20Write-up.pdf)
 
-#### Refer to [write-up](https://github.com/ruyangs/code-example/blob/main/src/Project%20-%20Write-up.pdf) for the Research Background, Research Method, Data Visualization. 
+**Research Summary:** [Write-up](https://github.com/ruyangs/code-example/blob/main/src/Project%20-%20Write-up.pdf)
 
